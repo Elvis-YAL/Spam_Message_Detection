@@ -1,6 +1,12 @@
-# Spam Message Detection
+# Spam Message Detection : Project Overview  
+* Developed a method to identify spam messages(AUC=0.99), aiding recipients in avoiding deception.  
+* Utilized NLTK for tokenization and Word2Vec for data preprocessing.  
+* Optimized models using Random Forest, Catboost, and LightGBM, and achieved final results with LSTM and RoBERTa.  
 
-### Hey, guys. In this notebook, I shall employ some methods to classify whether this message is spam or not. 
+
+
+## Let's delve deeper!
+
 > Table of Content:
 1. [Part 1: Exploratory Data Analysis](#part1)
 2. [Part 2: Vectorize the Text](#part2)
